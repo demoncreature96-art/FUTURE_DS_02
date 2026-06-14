@@ -45,3 +45,18 @@ The objective was to identify:
 ## Files Included
 - Power BI dashboard (.pbix)
 - Cleaned dataset (.csv)
+
+---
+
+## Author
+
+Vignesh K
+
+Passionate about Data Analytics, Business Intelligence, and Data Visualization. This project demonstrates the use of Power BI to transform customer churn data into actionable business insights and retention strategies.
+
+## Connect With Me
+
+- GitHub: https://github.com/demoncreature96-art
+- LinkedIn: [www.linkedin.com/in/vignesh-k0101]
+
+---

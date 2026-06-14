@@ -35,10 +35,22 @@ The objective was to identify:
 ---
 
 ## Dashboard Pages
-1. Executive Summary
-2. High-Risk Customer Segments
-3. Customer Lifetime & Retention Patterns
-4. Retention Strategy & Recommendations
+
+Executive Summary
+
+![Executive Dashboard](Images/executive_dashboard.png)
+
+High-Risk Customer Segments
+
+![Executive Dashboard](Images/executive_dashboard.png)
+
+Customer Lifetime & Retention Patterns
+
+![Executive Dashboard](Images/executive_dashboard.png)
+
+Retention Strategy & Recommendations
+
+![Executive Dashboard](Images/executive_dashboard.png)
 
 ---
 

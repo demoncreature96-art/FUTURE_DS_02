@@ -46,7 +46,7 @@ High-Risk Customer Segments
 
 Customer Lifetime & Retention Patterns
 
-![Executive Dashboard](Images/executive_dashboard.png)
+![Executive Dashboard](screenshots/Customer%20Lifetime%20&%20Retention%20Patterns.png)
 
 Retention Strategy & Recommendations
 

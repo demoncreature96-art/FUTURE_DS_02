@@ -42,7 +42,7 @@ Executive Summary
 
 High-Risk Customer Segments
 
-![Executive Dashboard](Images/executive_dashboard.png)
+![Executive Dashboard](screenshots/High-Risk%20Customer%20Segments.png)
 
 Customer Lifetime & Retention Patterns
 

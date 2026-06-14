@@ -38,7 +38,7 @@ The objective was to identify:
 
 Executive Summary
 
-![Executive Dashboard](Images/executive_dashboard.png)
+![Executive Dashboard](screenshots/Executive%20Summary%20Dashboard.png)
 
 High-Risk Customer Segments
 
